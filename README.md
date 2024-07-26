@@ -20,6 +20,6 @@ The <b>Pick & Place Robo (Dobot-Magician)</b> Project is an automated robotic ar
 
 
 <div  align="center">
-  <img src="https://github.com/user-attachments/assets/ef47e93f-84bc-4163-ab0b-14a9e839cf04"  width="450" height="450"/>
-  <img src="https://github.com/user-attachments/assets/da996905-0719-4cef-ad60-fc9a43ef5a1f"  width="450" height="450"/>
+  <img src="https://github.com/user-attachments/assets/ef47e93f-84bc-4163-ab0b-14a9e839cf04"  width="350" height="350"/>
+  <img src="https://github.com/user-attachments/assets/da996905-0719-4cef-ad60-fc9a43ef5a1f"  width="350" height="350"/>
 </div>
