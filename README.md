@@ -1,5 +1,5 @@
 <h1>Overview</h1>
-The Pick & Place Robo (Dobot-Magician) Project is an automated robotic arm system designed to sort objects based on color using AI and vision-based technology. The system is controlled by an Arduino MEGA and integrates a Pixy-Mon camera for real-time image processing. The project aims to enhance automation and precision in industrial applications.
+The <b>Pick & Place Robo (Dobot-Magician)</b> Project is an automated robotic arm system designed to sort objects based on color using AI and vision-based technology. The system is controlled by an <b>Arduino MEGA</b> and integrates a <b>Pixy-Mon</b> camera for real-time image processing. The project aims to enhance automation and precision in industrial applications.
 <h1>Features</h1>
 <ul>
   <li><b>Automated Sorting:</b>  Identifies and sorts objects based on color using an AI-powered vision system.</li>
